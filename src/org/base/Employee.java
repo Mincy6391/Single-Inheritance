@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	Employee a =new Employee();
 	a.empName();
 	a.companyName();
+	
 }
 
 }
